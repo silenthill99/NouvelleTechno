@@ -1,4 +1,5 @@
 import { CiPlay1 } from "react-icons/ci";
+import { CiPause1 } from "react-icons/ci";
 
 export const Home = () => {
     return (
@@ -11,6 +12,7 @@ export const Home = () => {
             <div>
                 <audio src="KANNA movie version.mp3" controls/>
                 <CiPlay1 />
+                <CiPause1 />
             </div>
         </main>
     )
