@@ -1,0 +1,10 @@
+.button {
+  width: 32px;
+  height: 32px;
+}
+
+#pause-button, #stop-button {
+  display: none;
+}
+
+/*# sourceMappingURL=Home.css.map */
